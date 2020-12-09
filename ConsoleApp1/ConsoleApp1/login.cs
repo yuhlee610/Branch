@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    public class login
     {
-        static void Main(string[] args)
+        public login()
         {
-            login lg = new login();
+            string account="huyle";
+            string password="123";
         }
     }
 }
