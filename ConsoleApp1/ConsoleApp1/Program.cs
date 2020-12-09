@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             login lg = new login();
+            string xinchao = "chao con cat";
         }
         public void tt()
         {
