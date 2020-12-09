@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             login lg = new login();
         }
+        public void tt()
+        {
+            register rg = new register();
+        }
     }
 }
