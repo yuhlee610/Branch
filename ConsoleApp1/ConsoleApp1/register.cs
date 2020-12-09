@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class register
     {
-        static void Main(string[] args)
+        public register()
         {
-        }
-        public void tt()
-        {
-            register rg = new register();
+            string xinchao = "hello";
         }
     }
 }
